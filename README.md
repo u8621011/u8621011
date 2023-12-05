@@ -30,6 +30,21 @@
 
 謝謝各位。🙏
 
+--- 
+
+事蹟列表
+- 2013年發表韓越版萌典
+- 2019年1月入圍【2019 g0v 獎助金】，計劃名稱：Hello 好鄰居
+- 2021年4月正式加入 AWS EdStart加速器
+- 2021年7月正式通過經濟部 SBIR 創業概念海選計劃
+- 2023年11月 It 邦幫忙 AI & Data 組佳作（以 OpenAI 以及 LangChain 實做我的聊天機器人）
+
+證照 & 專利
+- Coursera, Standord,  Machine Learning: 證書
+- Coursera, Deeplearning.ai, Deep Learning Specialization: 證書
+- 2019年/台灣新型專利/專利名稱: 使用者適性的語言學習系統。
+
+
 <!--
 **u8621011/u8621011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

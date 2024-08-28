@@ -1,6 +1,6 @@
 大家好，Xin chào các bạn。👋
 
-我是 Ted，愛語言創辦人，📣 目前同時也在網資科技擔任系統架構 / 後端開發 / 系統營運等工作。💻🔧
+我是 Ted，[愛語言](https://www.iyuyan.net/)創辦人，📣 也是[ChatGPT 落地研究](https://chatgptlanding.substack.com/)的主編。💻🔧
 
 ---
 

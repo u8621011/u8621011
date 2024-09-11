@@ -1,10 +1,10 @@
 大家好，Xin chào các bạn。👋
 
-我是 [Ted](https://www.facebook.com/ted.aigc)，[愛語言](https://www.iyuyan.net/)創辦人，📣 也是 **ChatGPT 落地研究** 的主編 / 版主（[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這）。💻🔧
+我是 [Ted](https://www.facebook.com/ted.aigc)，[愛語言](https://www.iyuyan.net/)創辦人，📣 也是 ***ChatGPT 落地研究*** 的主編 / 版主（[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這）。💻🔧
 
 ---
 
-早在 2008 年前往越南工作接觸了越南語之後，"語言" 就此與我結上了不解之緣。🌏💬
+早在 2008 年，前往越南工作接觸了越南語之後，"語言" 就此與我結上了不解之緣。🌏💬
 
 從 2013 年在唐鳳大大的萌典松中，初次發表的萌典漢越版。（demo 錄影在：[這裏](https://www.youtube.com/watch?v=6QHtvrePC8I)）🎥
 

@@ -1,6 +1,6 @@
 大家好，Xin chào các bạn。👋
 
-我是 [Ted](https://www.facebook.com/ted.aigc)，[愛語言](https://www.iyuyan.net/)創辦人，📣 也是 ***ChatGPT 落地研究*** 的主編 / 版主（[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這）。💻🔧
+我是 [Ted](https://www.facebook.com/ted.aigc)，[愛語言](https://www.iyuyan.net/)創辦人，📣 也是 ***ChatGPT 落地研究*** 的主編 / 版主（[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這；[YouTube 頻道](https://www.youtube.com/@ted_aigc)在這）。💻🔧
 
 ---
 

@@ -1,6 +1,7 @@
 大家好，Xin chào các bạn。👋
 
-我是 [Ted](https://www.facebook.com/ted.aigc)，[愛語言](https://www.iyuyan.net/)創辦人，📣 也是 ***ChatGPT 落地研究*** 的主編 / 版主（[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這；[YouTube 頻道](https://www.youtube.com/@ted_aigc)在這）。💻🔧
+我是 [Ted](https://www.facebook.com/ted.aigc)，[愛語言](https://www.iyuyan.net/)創辦人，📣 也是 ***ChatGPT 落地研究*** 的主編 / 版主
+（[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這；[YouTube 頻道](https://www.youtube.com/@ted_aigc)在這； [知識中心](https://llm-hub.notion.site/ChatGPT-LLM-a09891de7bd34cccb4f14fe17878875b)在這）。💻🔧
 
 ---
 
@@ -45,9 +46,9 @@
 - 2019年/台灣新型專利/專利名稱: 使用者適性的語言學習系統。
 
 歷年 LLM 應用開發 - 開課資訊
-- [從教材的生成，學習 GPTs 開發（入門者的公開課程）](https://wood-radish-7be.notion.site/GPTs-f6de65e2da1441a38968f0400baeaced?pvs=74)
-- [以 STORM 長文寫作，學習 LLM 應用開發](https://wood-radish-7be.notion.site/STORM-LLM-99024ac9559947a48b95f8e9cdb577a6?pvs=74)
-- [STORM 長文寫作 - 結業（實驗）專案執行成果](https://wood-radish-7be.notion.site/STORM-3b83e7f6232e4bf8aca2395a9daba887?pvs=74)
+- [從教材的生成，學習 GPTs 開發（入門者的公開課程）](https://llm-hub.notion.site/GPTs-f6de65e2da1441a38968f0400baeaced)
+- [以 STORM 長文寫作，學習 LLM 應用開發](https://llm-hub.notion.site/STORM-LLM-99024ac9559947a48b95f8e9cdb577a6)
+- [STORM 長文寫作 - 結業（實驗）專案執行成果](https://llm-hub.notion.site/STORM-3b83e7f6232e4bf8aca2395a9daba887)
 
 <!--
 **u8621011/u8621011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

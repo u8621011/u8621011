@@ -50,7 +50,7 @@
 - [從教材的生成，學習 GPTs 開發（入門者的公開課程）](https://llm-hub.notion.site/GPTs-f6de65e2da1441a38968f0400baeaced)
 - [以 STORM 長文寫作，學習 LLM 應用開發](https://llm-hub.notion.site/STORM-LLM-99024ac9559947a48b95f8e9cdb577a6)
 - [STORM 長文寫作 - 結業（實驗）專案執行成果](https://llm-hub.notion.site/STORM-3b83e7f6232e4bf8aca2395a9daba887)
-
+- [活動通 - 愛語言學堂 課程首頁](https://www.accupass.com/organizer/detail/2411260901111756440044)
 <!--
 **u8621011/u8621011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -50,7 +50,7 @@
 - Coursera, Deeplearning.ai, Deep Learning Specialization: [證書](https://coursera.org/share/64305bc90d35c75113749d2cbc4b4a1a)
 - 2019年/台灣新型專利/專利名稱: 使用者適性的語言學習系統。
 
-歷年 LLM 應用開發 - 開課資訊
+歷年 LLM 應用開發 & 智慧化流程 - 開課資訊
 - [活動通 - 愛語言學堂 課程首頁](https://www.accupass.com/organizer/detail/2411260901111756440044)
 - [零程式碼打造你的 AI 智慧中心-4 週輕鬆打造專屬 Line Bot](https://www.notion.so/llm-hub/4-Line-Bot-11487ed77aee8069a834cb1b41819b64)
 - [STORM 長文寫作 - 結業（實驗）專案執行成果](https://llm-hub.notion.site/STORM-3b83e7f6232e4bf8aca2395a9daba887)

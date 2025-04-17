@@ -45,7 +45,7 @@
 - 2023年11月 It 邦幫忙 AI & Data 組佳作（以 OpenAI 以及 LangChain 實做我的聊天機器人）
 
 證照 & 專利
-- Make 自動化平台, Partner Level 4 Advanced 認證： [證書](https://partnertraining.make.com/certificates/yhxpgjycbf?fbclid=IwY2xjawHkWpBleHRuA2FlbQIxMAABHb2Dr0hIfFDkZ_K9BgWK05QFppq7wySyku2Gm1e3yPTRebXXUVgNuHtEwQ_aem_MpwHB1hefznpXH1ySAf1nQ)
+- Make 自動化平台, Partner Level 5 Expert 認證： [證書]([https://partnertraining.make.com/certificates/yhxpgjycbf)
 - Coursera, Standord,  Machine Learning: [證書](https://coursera.org/share/ccf638101028787ea2594064a0c8e611)
 - Coursera, Deeplearning.ai, Deep Learning Specialization: [證書](https://coursera.org/share/64305bc90d35c75113749d2cbc4b4a1a)
 - 2019年/台灣新型專利/專利名稱: 使用者適性的語言學習系統。

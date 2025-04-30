@@ -1,6 +1,6 @@
 大家好，Xin chào các bạn。👋
 
-我是 [Ted](https://www.facebook.com/ted.aigc)，[愛語言](https://www.iyuyan.net/)／[愛語言學堂](https://www.accupass.com/organizer/detail/2411260901111756440044)創辦人，📣 也是 ChatGPT 落地研究的主編／版主 （[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這；[YouTube 頻道](https://www.youtube.com/@ted_aigc)在這； [知識中心](https://llm-hub.notion.site/ChatGPT-LLM-a09891de7bd34cccb4f14fe17878875b)在這； [課程中心](https://www.accupass.com/organizer/detail/2411260901111756440044)在這）。💻🔧
+我是 [Ted](https://www.facebook.com/Chen.Ching.Tai)，[愛語言](https://www.iyuyan.net/)／[愛語言學堂](https://www.accupass.com/organizer/detail/2411260901111756440044)創辦人，📣 也是 ChatGPT 落地研究的主編／版主 （[電子報](https://chatgptlanding.substack.com/)在這； [臉書社團](https://www.facebook.com/groups/631614079045059)在這；[YouTube 頻道](https://www.youtube.com/@ted_aigc)在這； [知識中心](https://llm-hub.notion.site/ChatGPT-LLM-a09891de7bd34cccb4f14fe17878875b)在這； [課程中心](https://www.accupass.com/organizer/detail/2411260901111756440044)在這）。💻🔧
 
 早在 2008 年，前往越南工作接觸了越南語之後，「語言」就此與我結上了不解之緣。🌏💬
 

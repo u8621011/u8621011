@@ -46,3 +46,7 @@
 - [強勢搶先體驗：STORM 長文寫作 X LLM 高階開發](https://www.accupass.com/event/2501030314534465739770)
 - [STORM 長文寫作 - 結業（實驗）專案執行成果](https://llm-hub.notion.site/STORM-3b83e7f6232e4bf8aca2395a9daba887)
 - [從教材的生成，學習 GPTs 開發（入門者的公開課程）](https://llm-hub.notion.site/GPTs-f6de65e2da1441a38968f0400baeaced)
+
+講座
+
+- [🚀 《AI 論文診斷》成果發表 × 第二階段共創說明會](https://www.facebook.com/share/p/19DfiCPMHm/)
